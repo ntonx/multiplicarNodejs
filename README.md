@@ -1,11 +1,11 @@
 
 
 ##MULTIPLICACION USANDO NODEJS
+EJECUTAR ESTE COMANDO
+npm install
 
-SINTAXIS PARA LA CREACION DE ARCHIVO CON TABLA
-
+Creacion de archivo en disco conteniendo tabla de multiplicar
 node app crear --base {valor} --limite {valor}
 
-SINTAXIS PARA LA VISUALIZACION TABLA EN CONSOLA
-
+Visualizacion de tabla en consola
 node app listar --base {valor} --limite {valor}
